@@ -1,0 +1,47 @@
+# Data Engineering Journey 🚀
+
+A collection of projects and practice code built during my 
+2-month Data Engineering learning journey.
+
+## About Me
+- 2nd Year Computer Science Student
+- Learning Data Engineering from scratch
+- Goal: Land a DE internship
+
+## Tech Stack Learned
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, requests, psycopg2
+- **Tools:** Apache Airflow, dbt, Snowflake
+- **Cloud:** AWS (S3, Glue, Redshift, Athena)
+- **Databases:** PostgreSQL, Snowflake
+
+## Projects
+### Project 3 — COVID-19 Data Lake (AWS)
+- Fetches live COVID data from REST API
+- Stores raw data in AWS S3
+- Processes with AWS Glue
+- Queries with Athena
+- Tech: Python, Airflow, AWS S3, Glue, Redshift
+
+### Project 2 — E-Commerce ETL Pipeline
+- Batch ETL pipeline with Apache Airflow
+- Transforms data using dbt models
+- Loads to Snowflake data warehouse
+- Tech: Python, Airflow, dbt, Snowflake
+
+### Project 1 — Real-Time Stock Pipeline
+- Real-time streaming with Apache Kafka
+- Processes with PySpark Streaming
+- Visualizes with Grafana
+- Tech: Kafka, PySpark, AWS S3, Grafana
+
+## Practice Code
+- **covid_pipeline.py** — Mini COVID data pipeline
+  - Fetches data from disease.sh API
+  - Cleans with Pandas
+  - Analyzes top countries
+  - Saves to CSV and JSON
+
+## Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/asin-a-380a3332a]
+- Email: [asin29122006@gmail.com]
