@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: E_commerce
+    project: de-cloud-warehouse
+    dataset: E_commerce
+    tables:
+      - name: raw_ecommerce
